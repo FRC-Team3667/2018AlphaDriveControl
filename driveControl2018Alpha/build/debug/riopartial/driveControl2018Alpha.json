@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project driveControl2018Alpha)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "driveControl2018Alpha",
+    "language": "java"
+  }
+]
